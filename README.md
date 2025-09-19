@@ -18,4 +18,4 @@ Este repositório foi criado para armazenar os **projetos práticos de HTML** de
 | 04            |[Projeto 04](https://herbsterdev.github.io/Site-Pessoal-WEB-I---HTML/)                                               | Site Pessoal                     |
 | 05            |[Projeto 05](https://herbsterdev.github.io/Tabela-Notas-WEB-I---HTML/)                                               | Tabela de Notas                  |
 | 06            |[Projeto 06](https://herbsterdev.github.io/Roteiro-Viagens-WEB-I---HTML/)                                               | Roteiro de Viagens               |
-| 07            |                                               | Cadastro de Usuário              |
+| 07            |[Projeto 07](https://herbsterdev.github.io/Cadastro-Usuario-WEB-I---HTML/)                                               | Cadastro de Usuário              |
