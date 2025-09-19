@@ -14,7 +14,7 @@ Este repositório foi criado para armazenar os **projetos práticos de HTML** de
 | ------------- | ---------------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | 01            |[Projeto 01](https://herbsterdev.github.io/Apresentacao-Pessoal-WEB-I---HTML/)                                               | Apresentação Pessoal             |
 | 02            |[Projeto 02](https://herbsterdev.github.io/Portfolio-Imagens-WEB-I---HTML/)                                               | Portfólio e Imagens              |
-| 03            |                                               | Página de Receitas               |
+| 03            |[Projeto 03](https://herbsterdev.github.io/Pagina-Receitas-WEB-I---HTML/)                                               | Página de Receitas               |
 | 04            |                                               | Site Pessoal                     |
 | 05            |                                               | Tabela de Notas                  |
 | 06            |                                               | Roteiro de Viagens               |
